@@ -1,4 +1,5 @@
 # Controle de Projetos
+"Os gerentes de projeto devem conseguir cadastrar novos projetos, incluindo informações como nome do projeto, localização, cliente, escopo inicial e data de início prevista. Além disso, os gerentes de projeto devem conseguir remover, consultar ou alterar um determinado projeto".
 
 Considere que o tech lead da sua squad atribuiu que você elabore uma documentação didática e sintetizada explicando cada uma das propriedades de bons projetos (integridade conceitual; ocultamento de informação; coesão; acoplamento) e dos princípios de bons projetos (SOLID, Prefira Interfaces a Classes e Demeter). Em tal documento, você deve apresentar qual é o propósito e um cenário prático para demonstrar o seu uso de acordo com a funcionalidade de Controle de Projetos previamente mencionada. Se por acaso você não conseguir implementar a referida funcionalidade, tente pelo menos entregar a explicação conceitual de cada propriedade e princípio.
 
