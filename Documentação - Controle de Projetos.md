@@ -33,6 +33,8 @@ Considere que o tech lead da sua squad atribuiu que você elabore uma documenta�
 ## Princípios de Bons Projetos
 
 ### SOLID
+SOLID é um acrônimo que representa cinco princípios de design de código: Single Responsibility Principle (SRP), Open/Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) e Dependency Inversion Principle (DIP).
+
 #### S - Responsabilidade Única
 **Propósito:** Um módulo deve ter apenas uma razão para mudar.
 
